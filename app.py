@@ -697,8 +697,7 @@ INDEX_HTML = """<!DOCTYPE html>
 
   // ── Copy CA ──
   function copyCa() {
-    navigator.clipboard.writeText('HnWQXCVE84dGc2AQxNwK1DdR3NgYqLHQTnFkh6ddpump
-9:');
+    navigator.clipboard.writeText('HnWQXCVE84dGc2AQxNwK1DdR3NgYqLHQTnFkh6ddpump9:');
     const el = document.getElementById('caBanner');
     el.classList.add('copied');
     setTimeout(() => el.classList.remove('copied'), 2000);
