@@ -11,7 +11,7 @@ INDEX_HTML = """<!DOCTYPE html>
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>$Israelify – Israelification Machine</title>
+  <title>$israelify – Israelification Machine</title>
   <link rel="preconnect" href="https://fonts.googleapis.com"/>
   <link href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Rubik:wght@300;400;500;700;900&display=swap" rel="stylesheet"/>
   <style>
@@ -559,7 +559,7 @@ INDEX_HTML = """<!DOCTYPE html>
   <header>
     <div class="logo-row">
       <span class="logo-star">✡</span>
-      <h1><span class="dollar">$</span>Israelify</h1>
+      <h1><span class="dollar">$</span>israelify</h1>
       <span class="logo-star">✡</span>
     </div>
     <p class="tagline">Israelification is the process of jewifying every meme</p>
@@ -578,7 +578,7 @@ INDEX_HTML = """<!DOCTYPE html>
         𝕏 Community
       </a>
       <a href="#" class="social-link">
-        🚀 Buy $ISR
+        🚀 Buy $israelify
       </a>
     </div>
   </header>
@@ -650,13 +650,13 @@ INDEX_HTML = """<!DOCTYPE html>
     </div>
     <div class="info-card">
       <span class="info-card-icon">✡</span>
-      <div class="info-card-title">$Israelify Token</div>
+      <div class="info-card-title">$israelify Token</div>
       <div class="info-card-text">The first memecoin dedicated to the Israelification of the entire internet.</div>
     </div>
     <div class="info-card">
       <span class="info-card-icon">🚀</span>
       <div class="info-card-title">Pump.fun</div>
-      <div class="info-card-text">Buy $ISR on Pump.fun. CA: DaZrk...pump. Join the community today.</div>
+      <div class="info-card-text">Buy $israelify on Pump.fun. CA: DaZrk...pump. Join the community today.</div>
     </div>
     <div class="info-card">
       <span class="info-card-icon">🤝</span>
@@ -677,7 +677,7 @@ INDEX_HTML = """<!DOCTYPE html>
 
 <!-- Footer -->
 <footer>
-  <p>✡ <strong>$Israelify</strong> — Israelification is the process of jewifying every meme ✡</p>
+  <p>✡ <strong>$israelify</strong> — Israelification is the process of jewifying every meme ✡</p>
   <p style="margin-top:6px">CA: HnWQXCVE84dGc2AQxNwK1DdR3NgYqLHQTnFkh6ddpump </p>
 </footer>
 
@@ -697,7 +697,8 @@ INDEX_HTML = """<!DOCTYPE html>
 
   // ── Copy CA ──
   function copyCa() {
-    navigator.clipboard.writeText('DaZrkP8HKwMkovvw565V31xv9DrYjuzTFFp4hKDHpump');
+    navigator.clipboard.writeText('HnWQXCVE84dGc2AQxNwK1DdR3NgYqLHQTnFkh6ddpump
+9:');
     const el = document.getElementById('caBanner');
     el.classList.add('copied');
     setTimeout(() => el.classList.remove('copied'), 2000);
