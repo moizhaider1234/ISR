@@ -656,7 +656,8 @@ INDEX_HTML = """<!DOCTYPE html>
     <div class="info-card">
       <span class="info-card-icon">🚀</span>
       <div class="info-card-title">Pump.fun</div>
-      <div class="info-card-text">Buy $israelify on Pump.fun. CA: DaZrk...pump. Join the community today.</div>
+      <div class="info-card-text">Buy $israelify on Pump.fun. CA: HnWQXCVE84dGc2AQxNwK1DdR3NgYqLHQTnFkh6ddpump
+. Join the community today.</div>
     </div>
     <div class="info-card">
       <span class="info-card-icon">🤝</span>
