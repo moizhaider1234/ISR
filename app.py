@@ -577,7 +577,7 @@ INDEX_HTML = """<!DOCTYPE html>
       <a href="https://x.com/i/communities/2025256544208617787" target="_blank" class="social-link filled">
         𝕏 Community
       </a>
-      <a href="#" class="social-link">
+      <a href="https://dexscreener.com/solana/5jyzm6eqtwusxydazmnl9rrughbda8xcpv8w6udkfaxb" class="social-link">
         🚀 Buy $israelify
       </a>
     </div>
