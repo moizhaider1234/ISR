@@ -567,7 +567,7 @@ INDEX_HTML = """<!DOCTYPE html>
     <!-- CA Badge -->
     <div class="ca-banner" id="caBanner" onclick="copyCa()">
       <span class="ca-label">CA</span>
-      <span class="ca-value">DaZrkP8HKwMkovvw565V31xv9DrYjuzTFFp4hKDHpump</span>
+      <span class="ca-value">HnWQXCVE84dGc2AQxNwK1DdR3NgYqLHQTnFkh6ddpump</span>
       <span>📋</span>
       <span class="copy-tip">Copied!</span>
     </div>
@@ -678,7 +678,7 @@ INDEX_HTML = """<!DOCTYPE html>
 <!-- Footer -->
 <footer>
   <p>✡ <strong>$Israelify</strong> — Israelification is the process of jewifying every meme ✡</p>
-  <p style="margin-top:6px">CA: DaZrkP8HKwMkovvw565V31xv9DrYjuzTFFp4hKDHpump</p>
+  <p style="margin-top:6px">CA: HnWQXCVE84dGc2AQxNwK1DdR3NgYqLHQTnFkh6ddpump </p>
 </footer>
 
 <script>
