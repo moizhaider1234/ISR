@@ -609,7 +609,7 @@ INDEX_HTML = """<!DOCTYPE html>
           </div>
           <div class="preview-pane">
             <span class="preview-pane-label">✡ Israelified</span>
-            <img id="resultPreview" src="/static/placeholder.png" alt="Result"/>
+            <img id="resultPreview" src="" alt="Result"/>
           </div>
         </div>
 
